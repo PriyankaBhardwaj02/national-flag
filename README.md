@@ -1,4 +1,7 @@
+In this project i am creating a Animated Indiam National Flag
 Animated National Flag
-indian national flag
-animation creates real visualisation
+Indian national flag
+Animation creates real visualisation
+
 Cool idea
+
